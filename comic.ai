@@ -1,0 +1,27 @@
+# 🎨 Comic Creator AI
+
+Comic Creator AI is a Python-based web application built with Streamlit that helps users create comic stories using AI. The application provides a simple and interactive interface for generating creative comic content.
+
+## 🚀 Features
+
+- ✨ AI-powered comic story creation
+- 📝 Generate creative comic scenes and dialogues
+- 🎭 Create characters and story ideas
+- 🖥️ Simple and interactive Streamlit interface
+- 🐍 Built using Python
+- ⚡ Easy to run locally
+
+## 🛠️ Technologies Used
+
+- Python
+- Streamlit
+- Artificial Intelligence (AI)
+
+## 📂 Project Structure
+
+```text
+Comic-Creator-AI/
+│
+├── app.py
+├── requirements.txt
+└── README.md
